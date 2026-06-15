@@ -1,0 +1,6 @@
+services:
+  - name: mc-aaapi
+    owner: red-team
+    language: clojure
+    nonServiceType: library
+    description: "A Clojure library wrapping the Amazon Advertising API"
